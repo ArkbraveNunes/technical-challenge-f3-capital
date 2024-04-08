@@ -19,6 +19,12 @@ Ele é dividido por segmentos _P_, _Q_ e _R_, cada linha começa com um codigo q
 
 Neste exemplo o **Q** aparece na posição/coluna 14, cada posição representa algo dentro do arquivo cnab.
 
+OBS: É preciso rodar um build para gerar a pasta /dist
+
+```bash
+npm run build
+```
+
 hoje ao rodar:
 
 ```bash
