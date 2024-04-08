@@ -1,0 +1,192 @@
+[
+  {
+    "position": { "row": 3, "column": 13 },
+    "segmentCode": "0010001300002",
+    "segmentType": "Q",
+    "businessName": "NTT BRASIL COMERCIO E SERVICOS DE TECNOL",
+    "district": "VILA SAO FRANCI",
+    "city": "SAO PAULO",
+    "uf": "SP",
+    "zipCode": "04711130"
+  },
+  {
+    "position": { "row": 6, "column": 13 },
+    "segmentCode": "0010001300005",
+    "segmentType": "Q",
+    "businessName": "NTT BRASIL COMERCIO E SERVICOS DE TECNOL",
+    "district": "VILA SAO FRANCI",
+    "city": "SAO PAULO",
+    "uf": "SP",
+    "zipCode": "04711130"
+  },
+  {
+    "position": { "row": 9, "column": 13 },
+    "segmentCode": "0010001300008",
+    "segmentType": "Q",
+    "businessName": "CAIXA SEGURADORA SA",
+    "district": "ASA NORTE",
+    "city": "BRASILIA",
+    "uf": "DF",
+    "zipCode": "70701050"
+  },
+  {
+    "position": { "row": 12, "column": 13 },
+    "segmentCode": "0010001300011",
+    "segmentType": "Q",
+    "businessName": "REDECARD SA",
+    "district": "MOOCA",
+    "city": "SAO PAULO",
+    "uf": "SP",
+    "zipCode": "03105003"
+  },
+  {
+    "position": { "row": 15, "column": 13 },
+    "segmentCode": "0010001300014",
+    "segmentType": "Q",
+    "businessName": "REDECARD SA",
+    "district": "MOOCA",
+    "city": "SAO PAULO",
+    "uf": "SP",
+    "zipCode": "03105003"
+  },
+  {
+    "position": { "row": 18, "column": 13 },
+    "segmentCode": "0010001300017",
+    "segmentType": "Q",
+    "businessName": "REDECARD SA",
+    "district": "MOOCA",
+    "city": "SAO PAULO",
+    "uf": "SP",
+    "zipCode": "03105003"
+  },
+  {
+    "position": { "row": 21, "column": 13 },
+    "segmentCode": "0010001300020",
+    "segmentType": "Q",
+    "businessName": "REDECARD SA",
+    "district": "MOOCA",
+    "city": "SAO PAULO",
+    "uf": "SP",
+    "zipCode": "03105003"
+  },
+  {
+    "position": { "row": 24, "column": 13 },
+    "segmentCode": "0010001300023",
+    "segmentType": "Q",
+    "businessName": "REDECARD SA",
+    "district": "MOOCA",
+    "city": "SAO PAULO",
+    "uf": "SP",
+    "zipCode": "03105003"
+  },
+  {
+    "position": { "row": 27, "column": 13 },
+    "segmentCode": "0010001300026",
+    "segmentType": "Q",
+    "businessName": "DIMED SA DISTRIBUIDORA DE MEDICAMENTOS",
+    "district": "BELA VISTA",
+    "city": "PORTO ALEGRE",
+    "uf": "RS",
+    "zipCode": "90440110"
+  },
+  {
+    "position": { "row": 30, "column": 13 },
+    "segmentCode": "0010001300029",
+    "segmentType": "Q",
+    "businessName": "ARAUCO DO BRASIL SA",
+    "district": "AGUA VERDE",
+    "city": "CURITIBA",
+    "uf": "PR",
+    "zipCode": "80240031"
+  },
+  {
+    "position": { "row": 33, "column": 13 },
+    "segmentCode": "0010001300032",
+    "segmentType": "Q",
+    "businessName": "ARAUCO DO BRASIL SA",
+    "district": "AGUA VERDE",
+    "city": "CURITIBA",
+    "uf": "PR",
+    "zipCode": "80240031"
+  },
+  {
+    "position": { "row": 36, "column": 13 },
+    "segmentCode": "0010001300035",
+    "segmentType": "Q",
+    "businessName": "ELECTROLUX DO BRASIL SA",
+    "district": "GUABIROTUBA",
+    "city": "CURITIBA",
+    "uf": "PR",
+    "zipCode": "81520900"
+  },
+  {
+    "position": { "row": 39, "column": 13 },
+    "segmentCode": "0010001300038",
+    "segmentType": "Q",
+    "businessName": "FURUKAWA ELECTRIC LATAM SA",
+    "district": "CIDADE INDUSTRI",
+    "city": "CURITIBA",
+    "uf": "PR",
+    "zipCode": "82590100"
+  },
+  {
+    "position": { "row": 42, "column": 13 },
+    "segmentCode": "0010001300041",
+    "segmentType": "Q",
+    "businessName": "ADENTRO DATA CENTER SOLUTIONS LTDA",
+    "district": "",
+    "city": "PORTO ALEGRE",
+    "uf": "RS",
+    "zipCode": "00000000"
+  },
+  {
+    "position": { "row": 45, "column": 13 },
+    "segmentCode": "0010001300044",
+    "segmentType": "Q",
+    "businessName": "COOPERATIVA CENTRAL DE COOPERATIVAS UNIM",
+    "district": "NITEROI",
+    "city": "CANOAS",
+    "uf": "RS",
+    "zipCode": "92120190"
+  },
+  {
+    "position": { "row": 48, "column": 13 },
+    "segmentCode": "0010001300047",
+    "segmentType": "Q",
+    "businessName": "HORFRAN COMERCIAL ELETRO MOVEIS LTDA",
+    "district": "AHU",
+    "city": "CURITIBA",
+    "uf": "PR",
+    "zipCode": "82200530"
+  },
+  {
+    "position": { "row": 51, "column": 13 },
+    "segmentCode": "0010001300050",
+    "segmentType": "Q",
+    "businessName": "FOURBANK TECNOLOGIA E EXPERTISE PARA O S",
+    "district": "SAO JOAO",
+    "city": "PORTO ALEGRE",
+    "uf": "RS",
+    "zipCode": "90550141"
+  },
+  {
+    "position": { "row": 54, "column": 13 },
+    "segmentCode": "0010001300053",
+    "segmentType": "Q",
+    "businessName": "SLC AGRICOLA SA",
+    "district": "SANTANA",
+    "city": "PORTO ALEGRE",
+    "uf": "RS",
+    "zipCode": "90620010"
+  },
+  {
+    "position": { "row": 57, "column": 13 },
+    "segmentCode": "0010001300056",
+    "segmentType": "Q",
+    "businessName": "ZENVIA MOBILE SERVICOS DIGITAIS AS",
+    "district": "AUXILIADORA",
+    "city": "PORTO ALEGRE",
+    "uf": "RS",
+    "zipCode": "90480000"
+  }
+]
