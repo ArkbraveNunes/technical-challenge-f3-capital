@@ -1,0 +1,35 @@
+{
+  "name": "technical-challenge-f3-capital",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Jean",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/main.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "yargs": "^17.7.2"
+  },
+  "devDependencies": {
+    "@commitlint/config-conventional": "^19.1.0",
+    "@types/chalk": "^2.2.0",
+    "@types/node": "^20.12.5",
+    "@types/yargs": "^17.0.32",
+    "commitizen": "^4.3.0",
+    "eslint": "^8.57.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.1.3",
+    "eslint-plugin-sonarjs": "^0.25.1",
+    "prettier": "^3.2.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.4"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog",
+      "disableScopeLowerCase": true
+    }
+  }
+}
