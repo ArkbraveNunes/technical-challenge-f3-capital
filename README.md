@@ -48,11 +48,13 @@ Opções:
   -e, --export        Sera gerado um arquivo .json na pasta ./reports contendo os resultados da busca                                           [booleano] [padrão: false]
 
 Exemplos:
-  node dist/main.js -s Q -- lista os registros que sao do segmento Q do arquivo cnab node dist/main.js -f 2 -t 50 -s Q lista os que sao do segmento Q entre linhas 2 e 50 do arquivo cnab
+  node dist/main.js -s Q  <--> lista os registros que sao do segmento Q do arquivo cnab node dist/main.js -f 2 -t 50 -s Q lista os que sao do segmento Q entre linhas 2 e 50 do arquivo cnab
 
-  node dist/main.js -s Q -b EUA -e -- lista os registros que contem EUA no nome e sao do segmento Q do arquivo cnab node dist/main.js -s Q -e lista os que sao do segmento Q do arquivo cnab e exporta o resultado em um arquivo JSON na pasta ./reports
+  node dist/main.js -s Q -b EUA -e  <--> lista os registros que contem EUA no nome e sao do segmento Q do arquivo cnab
 
-  node dist/main.js -s Q -d -- lista os registros que sao do ./cnab-files/default.rem do segmento Q do arquivo cnab especifico dentro da pasta cnab-files
+  node dist/main.js -s Q -e  <--> lista os que sao do segmento Q do arquivo cnab e exporta o resultado em um arquivo JSON na pasta ./reports
+
+  node dist/main.js -s Q -d ./cnab-files/default.rem  <--> lista os registros que sao do arquivo ./cnab-files/default.rem do segmento Q do arquivo cnab especifico dentro da pasta cnab-files
 ```
 
 hoje a ferramenta busca uma posição e loga isso no terminal.
